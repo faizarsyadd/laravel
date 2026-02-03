@@ -512,11 +512,11 @@
           </a>
 
           <ul class="dropdown-menu dropdown-menu-dark dropdown-modern shadow-lg border-0">
-            <li><a class="dropdown-item" href="#">🏨 Hotel</a></li>
+            <li><a class="dropdown-item" href="#">🏨 Penginapan</a></li>
             <li><a class="dropdown-item" href="#">✈️ Flight</a></li>
             <li><a class="dropdown-item" href="#">🚆 Kereta</a></li>
             <li><a class="dropdown-item" href="#">🚌 Bus & Travel</a></li>
-            <li><a class="dropdown-item" href="#">🚗 Rental Mobil</a></li>
+            <li><a class="dropdown-item" href="#">🚗 Mobil</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">✨ Lihat Semua</a></li>
           </ul>
@@ -730,7 +730,7 @@ window.addEventListener("scroll", () => {
   }
 
   function botReply(userText) {
-    let reply = "Terima kasih 🙌 Admin akan membalas secepatnya ya!";
+    let reply = "Terima kasih 🙌 Admin segera membalas secepatnya ya!";
 
     const t = userText.toLowerCase();
 
